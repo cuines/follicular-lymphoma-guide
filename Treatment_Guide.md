@@ -26,7 +26,13 @@ For asymptomatic advanced‑stage FL, observation (“watch‑and‑wait”) rem
 - **Radiolabeled antibodies** (e.g., 90Y‑ibritumomab tiuxetan) and **PI3K inhibitors** (e.g., idelalisib, copanlisib) are reserved for relapsed/refractory disease.
 
 ## Radiation Therapy
-*To be added in the upcoming update.*
+Radiation therapy (RT) plays a definitive role in the management of early‑stage (Stage I/II) follicular lymphoma. For patients with limited‑stage disease, involved‑site radiotherapy (ISRT) delivered to the affected lymph node region(s) can achieve long‑term disease control and is potentially curative.
+
+- **Curative Potential**: In early‑stage FL, radiation alone yields 10‑year progression‑free survival rates of 40‑50% and overall survival rates >80%. A significant proportion of patients (≈30‑40%) remain disease‑free beyond 10 years, suggesting that RT may be curative in a subset.
+- **Typical Dose**: The standard dose is 24–30 Gy delivered in 12–15 fractions over 2.5–3 weeks. Lower doses (e.g., 4 Gy in 2 fractions) are sometimes used for palliative intent in symptomatic bulky disease.
+- **Technique**: Modern RT uses conformal techniques (3D‑CRT, IMRT, VMAT) to minimize exposure of adjacent normal tissues. The target volume includes the involved lymph node(s) with a margin, as defined by the International Lymphoma Radiation Oncology Group (ILROG) guidelines.
+- **Integration with Systemic Therapy**: For some patients with high‑risk features (e.g., bulky disease, elevated LDH), combined modality therapy (RT plus rituximab) may be considered, though evidence is limited.
+- **Late Effects**: Potential long‑term toxicities include secondary malignancies (especially in younger patients), hypothyroidism (for neck irradiation), and cardiovascular effects (for mediastinal RT).
 
 ---
 
